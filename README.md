@@ -1,5 +1,10 @@
 # Material Design Lite
 
+## Loop11 customization
+Custom Loop11 style with custom primary and accent colors.
+
+To rebuild run `build.sh` that builds and moves the files from 'dist' folder to 'www.loop11.com/static/mdl'.
+
 [![GitHub version](https://badge.fury.io/gh/google%2Fmaterial-design-lite.svg)](https://badge.fury.io/gh/google%2Fmaterial-design-lite)
 [![npm version](https://badge.fury.io/js/material-design-lite.svg)](https://badge.fury.io/js/material-design-lite)
 [![Bower version](https://badge.fury.io/bo/material-design-lite.svg)](https://badge.fury.io/bo/material-design-lite)
