@@ -1,5 +1,8 @@
 # Material Design Lite
 
+## Loop11 customization
+Custom Loop11 style with custom primary and accent colors.
+
 ## Introduction
 **Material Design Light (MDL)** is a library of components for web developers based on Google's **Material Design** philosophy: "A visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science." Understanding the goals and principles of Material Design is critical to the proper use of the MDL components. If you have not yet read the [Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html), you should do so before attempting to use the components.
 
