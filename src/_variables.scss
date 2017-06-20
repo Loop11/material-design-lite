@@ -64,7 +64,7 @@
    We should be able to improve on this once CSS Font Loading L3 becomes more
    widely available.
 */
-$preferred_font: 'Roboto', 'Helvetica', 'Arial', sans-serif !default;
+$preferred_font: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif !default;
 $performance_font: 'Helvetica', 'Arial', sans-serif !default;
 
 /* ==========  COLORS  ========== */
@@ -484,7 +484,7 @@ $button-min-width: 64px !default;
 $button-height: 36px !default;
 $button-padding: 16px !default;
 $button-margin: 4px !default;
-$button-border-radius: 2px !default;
+$button-border-radius: 0px !default;
 
 $button-fab-size: 56px !default;
 $button-fab-size-mini: 40px !default;

@@ -1,7 +1,7 @@
 # Material Design Lite
 
 ## Loop11 customization
-Custom Loop11 style with custom primary and accent colors.
+Custom Loop11 style.
 
 To rebuild run `build.sh` that builds and moves the files from 'dist' folder to 'www.loop11.com/static/mdl'.
 
