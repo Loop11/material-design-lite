@@ -48,10 +48,12 @@
 
   &:hover {
     background-color: $button-hover-color;
+    text-decoration: underline;
   }
 
   &:focus:not(:active) {
     background-color: $button-focus-color;
+    text-decoration: underline;
   }
 
   &:active {
