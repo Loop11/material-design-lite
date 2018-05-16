@@ -119,6 +119,11 @@
   .mdl-radio.is-focused & {
     box-shadow: 0 0 0px 10px rgba(0, 0, 0, 0.1);
   }
+
+  .mdl-radio.is-focused:not(.is-checked) & {
+      background: rgba(0, 0, 0, 0) !important;
+      transform: scale(1, 1);
+  }
 }
 
 .mdl-radio__label {
