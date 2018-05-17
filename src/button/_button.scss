@@ -27,10 +27,10 @@
   height: $button-height;
   margin: 0;
   min-width: $button-min-width;
-  padding: 0 $button-padding;
+  padding: 0 2px;
   display: inline-block;
   @include typo-button();
-  overflow: hidden;
+  overflow: visible;
   will-change: box-shadow;
   transition: box-shadow 0.2s $animation-curve-fast-out-linear-in,
               background-color 0.2s $animation-curve-default,
@@ -39,7 +39,7 @@
   cursor: pointer;
   text-decoration: none;
   text-align: center;
-  line-height: $button-height;
+  line-height: 18px;
   vertical-align: middle;
 
   &::-moz-focus-inner {
